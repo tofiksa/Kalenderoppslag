@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Hva Skjer</string>
+	<string name="scan">Scan</string>
+	<string name="scan_resut_lable">Scan Result:</string>
+	<string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it. </string>
+	<string name="scan_varer">Scan varer</string>
+	<string name="liste">Liste</string>
+	
+	<string name="menu_refresh">Oppdater</string>
+    <string name="menu_search">Søk</string>
+    <string name="menu_share">Dele</string>
+    <string name="menu_map">Kart</string>
+    <string name="manuell_registrering_av_varer">Manuell registrering av varer</string>
+</resources>
